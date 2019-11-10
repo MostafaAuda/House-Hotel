@@ -1439,13 +1439,13 @@ hr {
 #backToTop {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.5);
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     text-align: center;
     border-radius: 4px;
     position: fixed;
-    bottom: 30px;
-    right: 30px;
+    bottom: 20px;
+    right: 20px;
     -webkit-transition: background-color .3s, 
       opacity .5s, visibility .5s;
     transition: background-color .3s, 
@@ -1472,6 +1472,6 @@ hr {
   .fa-arrow-up {
       color: white;
       margin: auto;
-      line-height: 50px;
-      font-size: 2em;
+      line-height: 40px;
+      font-size: 1.7em;
   }
