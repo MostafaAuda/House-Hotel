@@ -1,2 +1,1 @@
-# The House Hotel
- A template that will serve every hotel.
+# [The House Hotel](https://mostafaauda.github.io/The-House-Hotel/)
