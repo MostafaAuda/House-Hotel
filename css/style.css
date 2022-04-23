@@ -1184,10 +1184,9 @@ hr {
     padding: 0.5em 1.5em;
     word-spacing: 0.1em;
     cursor: pointer;
-    margin: auto;
     position: absolute;
-    right: 0;
-    left: 0;
+    left: 50%;
+    transform: translateX(-50%);
     bottom: 20px;
 }
 
